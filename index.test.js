@@ -1,4 +1,4 @@
-// index.test.js - Jest Unit Tests for Calculator
+// index.test.js - Jest Unit Test for Calculator
 
 const { add, subtract, multiply, divide } = require('./index');
 
